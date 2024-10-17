@@ -1,4 +1,4 @@
-# SC4020_project
+# SC4020_project2
 
 # **Human Mobility Sequential Pattern Mining Project**
 
