@@ -1,9 +1,5 @@
 # SC4020_project
 
-Here’s a sample `README.md` file for your project:
-
----
-
 # **Human Mobility Sequential Pattern Mining Project**
 
 ## **Project Overview**
